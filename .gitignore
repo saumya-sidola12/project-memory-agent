@@ -26,7 +26,15 @@ Thumbs.db
 
 # Build files
 dist/
+dist-ssr/
 build/
+.output/
+.vinxi/
+.tanstack/
+.nitro
+*.local
+.wrangler/
+.dev.vars
 
 # Logs
 *.log
