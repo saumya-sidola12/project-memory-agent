@@ -1,6 +1,6 @@
-# Recall — AI Project Memory Assistant
+# AI Project Memory Assistant
 
-Recall is a web app that turns messy AI/dev conversations into a **searchable project memory**. You paste a conversation (a chat with an AI assistant, a Slack thread, meeting notes — anything), the app's AI extracts the durable facts — decisions, reasons, problems, solutions, constraints — stores them as structured "memories", and later answers questions about the project using those memories instead of making things up.
+AI Project Memory Assistant is a web app that turns messy AI/dev conversations into a **searchable project memory**. You paste a conversation (a chat with an AI assistant, a Slack thread, meeting notes — anything), the app's AI extracts the durable facts — decisions, reasons, problems, solutions, constraints — stores them as structured "memories", and later answers questions about the project using those memories instead of making things up.
 
 ## What you can do with it
 
