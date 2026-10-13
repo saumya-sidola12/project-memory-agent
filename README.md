@@ -38,8 +38,8 @@ The project's linked repo is fetched through the **public GitHub API** (no token
 | --- | --- |
 | Frontend | React 19 + TypeScript, TanStack Start (file-based routing, server functions), TanStack Query, Tailwind CSS v4, shadcn/ui |
 | Backend logic | TanStack server functions (`src/lib/memory.functions.ts`) — validated with Zod |
-| AI | Lovable AI Gateway — chat extraction/answering + embeddings (`src/lib/ai.server.ts`) |
-| Database | Lovable Cloud (Postgres + pgvector for similarity search) |
+| AI | Gemini/Grok AI Gateway — chat extraction/answering + embeddings (`src/lib/ai.server.ts`) |
+| Database |Cloud (Postgres + pgvector for similarity search) |
 
 ## Project structure
 
